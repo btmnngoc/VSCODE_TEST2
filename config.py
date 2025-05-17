@@ -1,0 +1,1 @@
+FINANCIAL_METRIC_PATH = "data/6.2 (his) financialreport_metrics_FPT_CMG_processed.csv"
